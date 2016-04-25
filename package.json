@@ -1,0 +1,40 @@
+{
+  "name": "gulp-sass-unicode-double-escape",
+  "version": "1.0.0",
+  "description": "Reverts the conversion of unicode escaped characters and fixes the double escaped unicode characters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Coximus/gulp-sass-unicode-double-escape"
+  },
+  "keywords": [
+    "Fix",
+    "gulp-sass",
+    "unicode",
+    "double",
+    "escape"
+  ],
+  "author": "Paul Alcock",
+  "license": "MIT",
+  "bugs": {
+    "url": "github.com/Coximus/gulp-sass-unicode-double-escape"
+  },
+  "devDependencies": {
+    "gulp-util": "~3.0.7",
+    "through2": "~2.0.1"
+  },
+  "dependencies": {
+    "assert": "~1.3.0",
+    "del": "~2.2.0",
+    "gulp": "~3.9.0",
+    "gulp-clean": "~0.3.2",
+    "gulp-help": "~1.6.0",
+    "gulp-mocha": "~2.2.0",
+    "gulp-plumber": "~1.0.1",
+    "gulp-rename": "~1.2.2",
+    "gulp-sass": "~2.3.0"
+  }
+}

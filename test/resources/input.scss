@@ -1,0 +1,6 @@
+$open-quote:    \00AB;
+$close-quote:   \00BB;
+
+q{
+	quotes:"\2018" "\2019" "#{$open-quote}" "#{$close-quote}";
+}
