@@ -1,6 +1,6 @@
 {
   "name": "gulp-sass-unicode-double-escape",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reverts the conversion of unicode escaped characters and fixes the double escaped unicode characters.",
   "main": "index.js",
   "scripts": {
