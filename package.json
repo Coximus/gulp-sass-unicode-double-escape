@@ -22,7 +22,7 @@
   "bugs": {
     "url": "github.com/Coximus/gulp-sass-unicode-double-escape"
   },
-  "Dependencies": {
+  "dependencies": {
     "gulp-util": "~3.0.7",
     "through2": "~2.0.1"
   },
